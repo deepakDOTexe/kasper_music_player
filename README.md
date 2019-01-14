@@ -1,3 +1,4 @@
+![Logo](Logo/Logo%20Kasper.jpg)
 # kasper_music_player 
 ---
 (previously known as youtube_cli_flask)
